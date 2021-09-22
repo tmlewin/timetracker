@@ -1,0 +1,4 @@
+
+Notes----------
+
+The app was built with a javascript, html5 and css3 apps.
